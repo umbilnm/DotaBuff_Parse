@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;121,189;56,164;46.34%
+Linken's Sphere;90,523;50,469;55.75%
+Wraith Band;82,307;35,885;43.60%
+Desolator;81,967;42,319;51.63%
+Daedalus;81,522;49,106;60.24%
+Black King Bar;73,744;36,569;49.59%
+Maelstrom;73,637;27,717;37.64%
+Gleipnir;55,229;32,684;59.18%
+Magic Wand;54,995;24,247;44.09%
+Aghanim's Shard;52,568;30,160;57.37%
+Dragon Lance;45,547;21,572;47.36%
+Falcon Blade;39,133;17,365;44.37%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;45,69%;50,75%;3,19;450;589
+Safe Lane;42,28%;49,67%;3,75;524;667
+Mid Lane;10,30%;49,61%;3,49;514;677

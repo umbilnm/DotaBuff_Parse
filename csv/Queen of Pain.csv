@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;154,990;78,712;50.79%
+Power Treads;152,405;66,972;43.94%
+Bottle;107,613;45,973;42.72%
+Black King Bar;98,925;49,656;50.20%
+Null Talisman;95,609;37,617;39.34%
+Kaya and Sange;79,586;43,096;54.15%
+Magic Wand;70,318;29,007;41.25%
+Witch Blade;65,752;31,258;47.54%
+Linken's Sphere;53,344;31,186;58.46%
+Orchid Malevolence;49,865;19,057;38.22%
+Scythe of Vyse;37,531;23,502;62.62%
+Bloodthorn;34,387;20,914;60.82%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;71,54%;46,64%;3,5;513;651
+Off Lane;20,31%;46,96%;2,71;412;553
+Safe Lane;6,49%;45,01%;2,56;403;543

@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;20,524;11,214;54.64%
+Phase Boots;20,236;9,849;48.67%
+Aghanim's Scepter;19,665;10,997;55.92%
+Echo Sabre;15,709;7,971;50.74%
+Magic Wand;11,346;5,492;48.40%
+Mask of Madness;8,511;4,283;50.32%
+Quelling Blade;7,236;3,039;42.00%
+Daedalus;6,442;3,983;61.83%
+Bracer;6,313;2,860;45.30%
+Tranquil Boots;5,867;2,743;46.75%
+Dust of Appearance;5,596;2,686;48.00%
+Power Treads;4,681;2,129;45.48%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;60,49%;50,61%;2,51;367;516
+Safe Lane;29,04%;51,18%;2,52;323;453
+Mid Lane;5,02%;51,53%;2,71;390;506

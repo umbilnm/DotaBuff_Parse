@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;562,669;289,417;51.44%
+Aghanim's Shard;395,476;233,707;59.10%
+Aghanim's Scepter;342,606;205,417;59.96%
+Black King Bar;293,032;158,894;54.22%
+Silver Edge;227,941;133,546;58.59%
+Echo Sabre;226,294;115,854;51.20%
+Diffusal Blade;218,863;115,319;52.69%
+Magic Wand;186,635;86,330;46.26%
+Skull Basher;172,221;103,174;59.91%
+Wraith Band;168,774;76,448;45.30%
+Eye of Skadi;151,700;108,520;71.54%
+Quelling Blade;143,002;60,112;42.04%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;88,22%;49,46%;3,05;522;665
+Off Lane;7,23%;46,87%;2,3;445;569

@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Boots of Travel;427,648;229,252;53.61%
+Black King Bar;425,397;219,028;51.49%
+Silver Edge;337,049;183,178;54.35%
+Falcon Blade;252,591;120,875;47.85%
+Gleipnir;195,938;120,172;61.33%
+Satanic;177,050;115,656;65.32%
+Bottle;167,595;76,911;45.89%
+Maelstrom;161,197;59,603;36.98%
+Null Talisman;130,172;51,325;39.43%
+Aghanim's Shard;127,092;74,044;58.26%
+Magic Wand;125,316;54,671;43.63%
+Boots of Speed;84,885;21,153;24.92%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;52,03%;47,74%;2,79;558;700
+Off Lane;24,79%;46,06%;2,02;390;526
+Safe Lane;21,45%;45,20%;1,97;400;519

@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Black King Bar;219,842;110,748;50.38%
+Phase Boots;137,947;63,472;46.01%
+Echo Sabre;136,986;63,056;46.03%
+Power Treads;134,256;62,059;46.22%
+Wraith Band;90,969;34,354;37.76%
+Orb of Corrosion;90,783;40,774;44.91%
+Desolator;76,765;43,397;56.53%
+Eye of Skadi;76,508;49,628;64.87%
+Magic Wand;73,606;28,610;38.87%
+Skull Basher;70,355;35,603;50.60%
+Quelling Blade;59,105;20,661;34.96%
+Aghanim's Scepter;58,250;37,155;63.79%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;50,71%;46,08%;2,79;509;637
+Mid Lane;25,32%;50,09%;2,89;493;642
+Off Lane;21,08%;45,92%;2,15;407;536

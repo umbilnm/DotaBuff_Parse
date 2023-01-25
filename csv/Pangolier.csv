@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;118,654;60,291;50.81%
+Diffusal Blade;111,241;53,448;48.05%
+Arcane Boots;99,228;43,678;44.02%
+Blink Dagger;95,029;46,568;49.00%
+Aghanim's Scepter;89,909;50,821;56.52%
+Skull Basher;88,417;44,378;50.19%
+Orb of Corrosion;63,221;28,876;45.67%
+Maelstrom;57,313;22,722;39.65%
+Magic Wand;51,718;22,012;42.56%
+Bottle;44,738;20,813;46.52%
+Quelling Blade;31,097;11,862;38.15%
+Abyssal Blade;27,482;16,805;61.15%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;70,28%;47,84%;2,75;460;615
+Mid Lane;21,37%;47,70%;3,35;536;718
+Safe Lane;6,70%;42,36%;2,42;443;594

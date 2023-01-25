@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;641,419;346,378;54.00%
+Hurricane Pike;533,614;311,585;58.39%
+Aghanim's Shard;516,767;295,575;57.20%
+Wraith Band;507,089;264,775;52.21%
+Black King Bar;328,230;184,653;56.26%
+Silver Edge;312,599;183,206;58.61%
+Manta Style;300,563;190,156;63.27%
+Butterfly;207,664;144,472;69.57%
+Dragon Lance;144,515;62,748;43.42%
+Magic Wand;127,600;67,681;53.04%
+Daedalus;112,956;72,284;63.99%
+Grove Bow;97,561;53,031;54.36%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;76,81%;53,74%;3,05;558;670
+Mid Lane;14,49%;53,81%;2,8;535;678
+Off Lane;7,14%;49,32%;2,05;446;546

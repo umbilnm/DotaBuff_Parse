@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;445,341;209,848;47.12%
+Black King Bar;338,249;178,191;52.68%
+Mask of Madness;313,722;135,107;43.07%
+Mjollnir;269,206;164,108;60.96%
+Aghanim's Shard;255,600;152,727;59.75%
+Wraith Band;196,309;75,029;38.22%
+Maelstrom;138,361;35,844;25.91%
+Monkey King Bar;126,489;75,395;59.61%
+Magic Wand;100,971;38,762;38.39%
+Quelling Blade;100,794;33,292;33.03%
+Daedalus;90,560;58,248;64.32%
+Eye of Skadi;82,844;59,515;71.84%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;76,67%;48,75%;3,31;540;676
+Off Lane;19,83%;49,87%;2,76;442;534

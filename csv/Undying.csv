@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Arcane Boots;128,671;58,649;45.58%
+Blade Mail;113,067;58,958;52.14%
+Guardian Greaves;111,940;70,857;63.30%
+Aghanim's Shard;108,555;65,025;59.90%
+Magic Wand;99,637;51,386;51.57%
+Aghanim's Scepter;70,765;42,344;59.84%
+Observer and Sentry Wards;51,837;21,569;41.61%
+Pipe of Insight;50,043;31,287;62.52%
+Dust of Appearance;49,743;23,992;48.23%
+Lotus Orb;43,459;26,287;60.49%
+Smoke of Deceit;34,933;18,487;52.92%
+Holy Locket;34,418;20,311;59.01%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;63,34%;52,53%;2,77;368;509
+Safe Lane;33,12%;52,75%;2,57;331;484

@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;150,838;82,936;54.98%
+Arcane Boots;82,423;42,657;51.75%
+Aghanim's Scepter;79,046;44,589;56.41%
+Magic Wand;73,563;38,494;52.33%
+Tranquil Boots;71,852;36,454;50.73%
+Force Staff;67,619;35,672;52.75%
+Glimmer Cape;57,066;30,645;53.70%
+Observer and Sentry Wards;53,783;21,909;40.74%
+Null Talisman;47,727;23,968;50.22%
+Dust of Appearance;38,654;19,743;51.08%
+Eul's Scepter of Divinity;37,507;20,996;55.98%
+Boots of Speed;30,949;13,974;45.15%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;64,62%;51,50%;2,64;322;451
+Off Lane;26,24%;52,20%;2,72;335;486
+Mid Lane;5,88%;48,54%;3,15;437;590

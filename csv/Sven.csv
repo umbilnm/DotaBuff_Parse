@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;130,625;61,006;46.70%
+Black King Bar;128,964;66,512;51.57%
+Echo Sabre;101,591;49,138;48.37%
+Mask of Madness;82,277;34,512;41.95%
+Daedalus;75,456;45,300;60.03%
+Blink Dagger;73,605;33,065;44.92%
+Aghanim's Shard;44,263;27,727;62.64%
+Silver Edge;35,575;19,507;54.83%
+Aghanim's Scepter;32,047;19,162;59.79%
+Satanic;31,865;21,426;67.24%
+Magic Wand;31,174;12,552;40.26%
+Quelling Blade;29,340;10,365;35.33%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;78,52%;50,64%;2,91;569;660
+Off Lane;15,73%;48,33%;2,18;471;580

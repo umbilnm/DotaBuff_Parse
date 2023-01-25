@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Blink Dagger;130,662;62,515;47.84%
+Black King Bar;85,858;46,268;53.89%
+Arcane Boots;51,091;23,785;46.55%
+Aghanim's Scepter;50,894;30,368;59.67%
+Boots of Speed;39,763;16,863;42.41%
+Refresher Orb;30,608;19,327;63.14%
+Aghanim's Shard;28,216;16,411;58.16%
+Soul Ring;25,682;11,652;45.37%
+Magic Wand;19,386;9,320;48.08%
+Ogre Axe;17,884;4,566;25.53%
+Dust of Appearance;17,182;7,775;45.25%
+Observer and Sentry Wards;17,025;5,652;33.20%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;47,63%;52,10%;2,47;399;535
+Jungle;33,03%;51,21%;2,83;419;484
+Safe Lane;13,75%;50,25%;2,11;354;498

@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;21,961;12,974;59.08%
+Aghanim's Scepter;20,188;11,741;58.16%
+Null Talisman;16,557;8,521;51.46%
+Tranquil Boots;15,248;7,066;46.34%
+Assault Cuirass;14,182;9,953;70.18%
+Magic Wand;13,731;7,340;53.46%
+Boots of Bearing;11,547;7,648;66.23%
+Vladmir's Offering;11,512;6,378;55.40%
+Blight Stone;8,840;4,672;52.85%
+Wraith Pact;8,189;4,940;60.32%
+Scythe of Vyse;7,084;4,633;65.40%
+Drum of Endurance;6,117;2,954;48.29%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;42,50%;57,31%;3,77;503;665
+Off Lane;35,71%;53,21%;2,91;421;555
+Safe Lane;19,64%;49,06%;2,62;370;457

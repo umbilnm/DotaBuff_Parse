@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Maelstrom;265,603;122,315;46.05%
+Black King Bar;213,028;114,815;53.90%
+Blink Dagger;164,618;91,209;55.41%
+Magic Wand;130,680;59,587;45.60%
+Aghanim's Shard;127,687;69,366;54.33%
+Null Talisman;121,007;54,039;44.66%
+Boots of Speed;120,763;48,508;40.17%
+Phase Boots;112,339;52,268;46.53%
+Aghanim's Scepter;105,066;67,398;64.15%
+Daedalus;89,478;57,011;63.72%
+Dust of Appearance;82,974;35,813;43.16%
+Boots of Travel;81,029;54,261;66.96%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;51,06%;49,23%;2,79;407;550
+Mid Lane;33,78%;49,69%;3,38;486;639
+Safe Lane;13,68%;46,03%;2,62;379;523

@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;60,130;26,931;44.79%
+Manta Style;56,492;26,980;47.76%
+Eye of Skadi;46,353;24,898;53.71%
+Black King Bar;37,524;17,349;46.23%
+Wraith Band;31,499;12,978;41.20%
+Dragon Lance;25,256;10,981;43.48%
+Quelling Blade;14,942;5,513;36.90%
+Magic Wand;13,139;5,572;42.41%
+Butterfly;12,933;7,789;60.23%
+Daedalus;12,794;7,322;57.23%
+Hurricane Pike;12,080;6,485;53.68%
+Satanic;11,370;6,391;56.21%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;87,13%;47,95%;2,8;587;620
+Off Lane;6,65%;46,27%;1,94;463;521

@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Manta Style;109,054;59,607;54.66%
+Power Treads;96,155;49,887;51.88%
+Heart of Tarrasque;86,956;53,046;61.00%
+Wraith Band;71,805;34,697;48.32%
+Bloodthorn;43,841;28,166;64.25%
+Butterfly;40,826;26,642;65.26%
+Diffusal Blade;38,373;19,244;50.15%
+Eye of Skadi;36,180;22,612;62.50%
+Quelling Blade;27,804;12,240;44.02%
+Orchid Malevolence;20,953;8,948;42.71%
+Aghanim's Shard;20,634;12,711;61.60%
+Magic Wand;18,438;8,569;46.47%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;71,14%;50,93%;3,55;604;651
+Off Lane;12,31%;47,74%;2,6;464;538
+Mid Lane;10,23%;52,99%;3,55;599;636

@@ -1,0 +1,20 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Black King Bar;213,808;103,721;48.51%
+Hand of Midas;185,494;80,422;43.36%
+Blink Dagger;179,276;71,970;40.14%
+Aghanim's Shard;155,001;85,285;55.02%
+Phase Boots;141,555;62,546;44.18%
+Aghanim's Scepter;108,982;61,392;56.33%
+Octarine Core;94,941;55,804;58.78%
+Shiva's Guard;84,031;52,453;62.42%
+Boots of Travel;75,857;43,856;57.81%
+Overwhelming Blink;58,853;42,658;72.48%
+Magic Wand;45,532;16,295;35.79%
+Quelling Blade;35,995;11,502;31.95%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;73,19%;47,39%;2,45;522;583
+Jungle;11,20%;43,58%;2,23;470;485
+Safe Lane;6,81%;44,26%;2,32;505;557
+Mid Lane;6,58%;47,28%;2,97;614;683

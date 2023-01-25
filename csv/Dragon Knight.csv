@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;133,819;63,172;47.21%
+Blink Dagger;98,327;46,908;47.71%
+Black King Bar;95,256;49,188;51.64%
+Aghanim's Shard;82,399;42,511;51.59%
+Bracer;64,060;27,101;42.31%
+Aghanim's Scepter;61,943;38,482;62.12%
+Soul Ring;53,471;24,164;45.19%
+Assault Cuirass;38,166;25,182;65.98%
+Magic Wand;37,313;16,300;43.68%
+Quelling Blade;35,238;13,943;39.57%
+Silver Edge;21,533;11,699;54.33%
+Hand of Midas;21,064;9,434;44.79%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;59,59%;49,05%;2,57;436;583
+Mid Lane;26,83%;50,14%;3,07;492;610
+Safe Lane;11,99%;45,70%;2,48;456;548

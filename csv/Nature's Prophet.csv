@@ -1,0 +1,21 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;262,791;117,890;44.86%
+Black King Bar;165,805;82,500;49.76%
+Silver Edge;127,138;65,111;51.21%
+Gleipnir;106,336;57,474;54.05%
+Hand of Midas;104,499;41,650;39.86%
+Bloodthorn;104,390;59,589;57.08%
+Desolator;93,663;47,579;50.80%
+Orchid Malevolence;92,078;33,204;36.06%
+Blight Stone;91,252;33,120;36.30%
+Maelstrom;72,312;23,578;32.61%
+Aghanim's Scepter;66,941;35,903;53.63%
+Assault Cuirass;61,326;38,498;62.78%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;41,10%;44,20%;2,05;528;554
+Jungle;27,17%;41,49%;2,05;533;508
+Safe Lane;15,50%;43,54%;2,1;549;582
+Mid Lane;9,78%;45,37%;2,49;634;680
+Roaming;6,44%;41,36%;1,92;492;483

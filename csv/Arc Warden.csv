@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Gleipnir;340,568;196,983;57.84%
+Boots of Travel;307,749;167,327;54.37%
+Hand of Midas;306,369;157,768;51.50%
+Octarine Core;233,507;156,729;67.12%
+Aghanim's Scepter;177,795;115,213;64.80%
+Scythe of Vyse;134,963;92,414;68.47%
+Circlet;106,808;45,450;42.55%
+Overwhelming Blink;88,568;67,364;76.06%
+Blink Dagger;70,703;44,566;63.03%
+Boots of Travel 2;56,573;41,272;72.95%
+Wraith Band;54,942;23,298;42.40%
+Ethereal Blade;49,383;35,473;71.83%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;71,74%;54,79%;3,52;699;732
+Safe Lane;20,94%;47,65%;3,04;656;655
+Off Lane;6,37%;44,85%;2,27;507;540

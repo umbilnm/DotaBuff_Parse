@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Soul Ring;38,411;19,682;51.24%
+Wraith Band;25,894;13,445;51.92%
+Black King Bar;25,836;13,642;52.80%
+Quelling Blade;20,090;9,532;47.45%
+Aghanim's Shard;19,893;10,825;54.42%
+Orchid Malevolence;19,847;8,413;42.39%
+Guardian Greaves;19,547;11,237;57.49%
+Power Treads;16,909;7,466;44.15%
+Pipe of Insight;15,854;9,528;60.10%
+Bloodthorn;11,173;6,765;60.55%
+Orb of Corrosion;10,544;5,469;51.87%
+Magic Wand;10,521;5,305;50.42%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;45,36%;52,79%;2,87;556;713
+Off Lane;44,87%;44,48%;1,9;456;565
+Safe Lane;6,34%;36,51%;1,62;422;532

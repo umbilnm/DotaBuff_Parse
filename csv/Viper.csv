@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Wraith Band;181,863;87,194;47.94%
+Power Treads;157,437;74,007;47.01%
+Aghanim's Shard;152,238;91,986;60.42%
+Black King Bar;104,667;51,696;49.39%
+Aghanim's Scepter;99,358;55,410;55.77%
+Hurricane Pike;90,586;48,505;53.55%
+Magic Wand;80,358;39,191;48.77%
+Dragon Lance;79,736;35,616;44.67%
+Boots of Travel;69,277;39,590;57.15%
+Bloodstone;69,251;40,015;57.78%
+Eternal Shroud;60,248;32,582;54.08%
+Gleipnir;50,578;28,027;55.41%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;44,76%;50,37%;3,12;492;628
+Off Lane;40,88%;49,98%;2,54;445;576
+Safe Lane;13,31%;47,02%;2,53;437;561

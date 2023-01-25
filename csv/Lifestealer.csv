@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Phase Boots;262,637;130,243;49.59%
+Desolator;181,027;95,140;52.56%
+Armlet of Mordiggian;153,485;75,843;49.41%
+Aghanim's Shard;128,320;73,688;57.43%
+Skull Basher;123,173;60,200;48.87%
+Abyssal Blade;92,605;60,783;65.64%
+Assault Cuirass;82,487;55,923;67.80%
+Quelling Blade;76,568;31,335;40.92%
+Bracer;57,833;24,690;42.69%
+Orb of Corrosion;49,444;24,643;49.84%
+Sange and Yasha;46,986;27,175;57.84%
+Monkey King Bar;45,866;26,376;57.51%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;72,05%;50,71%;3,64;543;674
+Jungle;13,13%;44,46%;2,64;463;556
+Off Lane;12,42%;47,79%;2,61;466;625

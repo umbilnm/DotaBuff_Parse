@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Phase Boots;37,025;18,105;48.90%
+Magic Wand;29,175;13,987;47.94%
+Tranquil Boots;25,525;13,117;51.39%
+Aghanim's Scepter;25,491;16,046;62.95%
+Aghanim's Shard;22,930;13,503;58.89%
+Echo Sabre;21,578;10,946;50.73%
+Holy Locket;21,355;12,729;59.61%
+Blade Mail;18,106;8,493;46.91%
+Bracer;14,813;6,834;46.14%
+Dust of Appearance;14,746;7,067;47.92%
+Ring of Basilius;14,697;7,239;49.25%
+Vladmir's Offering;14,059;7,469;53.13%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;58,28%;53,82%;2,97;387;544
+Safe Lane;36,10%;52,94%;2,82;326;491

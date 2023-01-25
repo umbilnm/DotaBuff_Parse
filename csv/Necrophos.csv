@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;213,006;111,995;52.58%
+Null Talisman;177,029;80,557;45.50%
+Radiance;145,389;83,710;57.58%
+Magic Wand;130,859;62,747;47.95%
+Eternal Shroud;97,450;52,799;54.18%
+Boots of Travel;90,061;54,716;60.75%
+Kaya and Sange;83,132;48,561;58.41%
+Blink Dagger;80,172;40,557;50.59%
+Aghanim's Scepter;68,871;43,023;62.47%
+Boots of Speed;66,909;24,242;36.23%
+Hood of Defiance;65,463;27,175;41.51%
+Lotus Orb;63,857;35,253;55.21%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;48,69%;53,94%;2,85;448;570
+Mid Lane;34,39%;53,29%;3,43;524;668
+Safe Lane;14,76%;52,47%;2,79;408;505

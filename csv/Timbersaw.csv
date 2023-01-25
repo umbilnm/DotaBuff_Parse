@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Arcane Boots;89,188;39,332;44.10%
+Kaya and Sange;73,860;40,345;54.62%
+Soul Ring;72,970;33,117;45.38%
+Aghanim's Shard;62,493;36,452;58.33%
+Lotus Orb;57,314;29,149;50.86%
+Magic Wand;43,911;19,397;44.17%
+Aghanim's Scepter;37,982;22,183;58.40%
+Eternal Shroud;32,587;17,355;53.26%
+Hood of Defiance;31,732;12,172;38.36%
+Pipe of Insight;30,419;16,261;53.46%
+Eul's Scepter of Divinity;29,883;13,140;43.97%
+Boots of Speed;29,321;12,394;42.27%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;82,22%;47,30%;2,5;448;580
+Mid Lane;10,28%;47,89%;3,12;508;627
+Safe Lane;6,26%;44,50%;2,47;451;564

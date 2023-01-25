@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;93,073;52,318;56.21%
+Black King Bar;82,269;43,606;53.00%
+Null Talisman;77,059;35,651;46.26%
+Eul's Scepter of Divinity;76,472;36,428;47.64%
+Magic Wand;70,727;36,423;51.50%
+Kaya and Sange;44,352;25,524;57.55%
+Guardian Greaves;43,822;26,879;61.34%
+Phase Boots;43,241;20,050;46.37%
+Shiva's Guard;38,494;25,125;65.27%
+Aghanim's Scepter;36,598;21,623;59.08%
+Boots of Travel;33,363;18,569;55.66%
+Bottle;31,950;15,121;47.33%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;53,96%;48,28%;2,97;483;620
+Off Lane;34,86%;49,13%;2,51;433;591
+Safe Lane;10,07%;46,56%;2,1;375;521

@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Tranquil Boots;66,771;30,545;45.75%
+Aghanim's Scepter;60,946;31,621;51.88%
+Force Staff;40,340;19,141;47.45%
+Boots of Travel;29,004;14,881;51.31%
+Dagon (level 5);28,657;15,362;53.61%
+Ethereal Blade;23,118;12,389;53.59%
+Observer and Sentry Wards;20,065;7,136;35.56%
+Magic Wand;19,705;9,165;46.51%
+Octarine Core;19,477;12,164;62.45%
+Aghanim's Shard;18,456;10,559;57.21%
+Dust of Appearance;15,634;7,038;45.02%
+Aether Lens;15,068;7,069;46.91%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;41,19%;47,49%;2,55;339;452
+Off Lane;39,01%;48,90%;2,82;372;505
+Mid Lane;14,54%;49,00%;4,0;559;693

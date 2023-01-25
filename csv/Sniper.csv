@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;592,759;283,059;47.75%
+Wraith Band;445,885;211,198;47.37%
+Hurricane Pike;442,703;228,570;51.63%
+Mask of Madness;295,434;134,165;45.41%
+Mjollnir;274,365;156,675;57.10%
+Silver Edge;229,100;117,045;51.09%
+Maelstrom;211,587;76,605;36.20%
+Aghanim's Shard;200,975;101,525;50.52%
+Black King Bar;198,876;96,394;48.47%
+Daedalus;198,045;112,286;56.70%
+Monkey King Bar;180,098;96,488;53.58%
+Dragon Lance;160,028;66,841;41.77%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;53,42%;52,66%;3,5;566;672
+Safe Lane;26,97%;48,74%;3,27;541;625
+Off Lane;18,17%;50,27%;2,9;447;550

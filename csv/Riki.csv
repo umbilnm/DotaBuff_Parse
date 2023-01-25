@@ -1,0 +1,20 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;322,403;181,120;56.18%
+Diffusal Blade;223,380;124,280;55.64%
+Power Treads;205,851;111,753;54.29%
+Magic Wand;164,201;90,159;54.91%
+Wraith Band;127,910;67,600;52.85%
+Aether Lens;93,002;54,126;58.20%
+Orb of Venom;92,846;48,376;52.10%
+Manta Style;91,061;57,079;62.68%
+Skull Basher;81,058;45,986;56.73%
+Boots of Speed;80,901;41,963;51.87%
+Dust of Appearance;72,041;36,337;50.44%
+Orb of Corrosion;67,140;36,944;55.03%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;39,54%;52,63%;3,9;470;651
+Off Lane;36,85%;54,07%;3,27;384;549
+Mid Lane;14,23%;55,06%;3,46;403;553
+Roaming;5,45%;51,22%;2,93;336;471

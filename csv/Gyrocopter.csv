@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;232,488;122,104;52.52%
+Magic Wand;95,584;48,683;50.93%
+Veil of Discord;78,220;42,314;54.10%
+Tranquil Boots;72,805;38,298;52.60%
+Black King Bar;62,675;31,738;50.64%
+Ethereal Blade;61,371;37,149;60.53%
+Power Treads;53,553;23,246;43.41%
+Force Staff;52,698;28,028;53.19%
+Arcane Boots;47,140;23,452;49.75%
+Wraith Band;46,315;19,206;41.47%
+Dust of Appearance;46,169;22,188;48.06%
+Aghanim's Scepter;45,371;24,162;53.25%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;55,55%;47,03%;2,83;520;608
+Off Lane;30,32%;51,11%;2,5;400;557
+Mid Lane;11,74%;46,37%;2,74;515;642

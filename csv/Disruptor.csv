@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Arcane Boots;155,033;74,174;47.84%
+Aether Lens;146,033;78,186;53.54%
+Aghanim's Scepter;130,556;81,021;62.06%
+Force Staff;130,388;68,639;52.64%
+Magic Wand;126,908;63,814;50.28%
+Observer and Sentry Wards;88,962;34,371;38.64%
+Aghanim's Shard;78,336;47,088;60.11%
+Glimmer Cape;75,584;39,920;52.82%
+Dust of Appearance;63,148;30,851;48.86%
+Tranquil Boots;61,144;32,446;53.06%
+Boots of Speed;60,796;28,593;47.03%
+Smoke of Deceit;57,442;29,281;50.97%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;72,96%;49,87%;2,47;301;445
+Off Lane;19,52%;50,15%;2,57;309;468

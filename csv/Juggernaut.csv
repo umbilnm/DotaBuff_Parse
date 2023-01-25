@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Phase Boots;579,832;297,078;51.24%
+Aghanim's Shard;500,482;282,727;56.49%
+Manta Style;360,975;205,712;56.99%
+Mjollnir;314,846;197,765;62.81%
+Wraith Band;260,892;119,196;45.69%
+Skull Basher;242,327;134,415;55.47%
+Maelstrom;208,388;73,858;35.44%
+Blink Dagger;187,843;105,437;56.13%
+Magic Wand;180,714;84,184;46.58%
+Aghanim's Scepter;168,940;108,150;64.02%
+Abyssal Blade;154,217;106,288;68.92%
+Quelling Blade;152,104;63,228;41.57%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;88,11%;52,24%;3,34;576;685
+Off Lane;5,94%;47,10%;2,27;481;581

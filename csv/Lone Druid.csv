@@ -1,0 +1,20 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Phase Boots;78,865;42,934;54.44%
+Mask of Madness;75,610;40,798;53.96%
+Iron Branch;70,501;38,945;55.24%
+Quelling Blade;63,025;31,980;50.74%
+Desolator;58,442;34,762;59.48%
+Aghanim's Shard;50,582;31,444;62.16%
+Boots of Speed;46,670;24,273;52.01%
+Skull Basher;43,682;26,700;61.12%
+Aghanim's Scepter;37,995;22,103;58.17%
+Wraith Band;37,670;23,261;61.75%
+Assault Cuirass;33,636;24,554;73.00%
+Orb of Venom;26,606;13,024;48.95%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;31,08%;55,27%;3,35;543;657
+Safe Lane;29,21%;48,34%;2,96;524;601
+Off Lane;27,47%;48,27%;2,48;478;549
+Jungle;10,79%;39,46%;2,19;477;488

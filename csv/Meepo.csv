@@ -1,0 +1,20 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;140,884;76,460;54.27%
+Dragon Lance;138,278;76,792;55.53%
+Wraith Band;112,847;53,813;47.69%
+Blink Dagger;97,372;52,335;53.75%
+Eye of Skadi;94,928;63,174;66.55%
+Scythe of Vyse;67,224;43,244;64.33%
+Aghanim's Scepter;59,791;37,939;63.45%
+Diffusal Blade;40,198;22,379;55.67%
+Quelling Blade;25,778;10,862;42.14%
+Aghanim's Shard;21,430;13,468;62.85%
+Ultimate Orb;17,766;6,310;35.52%
+Swift Blink;16,222;12,174;75.05%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;69,41%;55,05%;2,82;597;780
+Safe Lane;14,96%;43,50%;2,04;510;664
+Off Lane;7,78%;41,20%;1,69;450;609
+Jungle;5,84%;41,83%;1,87;516;661

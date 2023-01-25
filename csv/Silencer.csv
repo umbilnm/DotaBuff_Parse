@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Null Talisman;441,145;236,141;53.53%
+Aghanim's Shard;413,052;251,814;60.96%
+Power Treads;331,487;181,133;54.64%
+Hurricane Pike;284,252;180,328;63.44%
+Force Staff;216,382;109,632;50.67%
+Witch Blade;193,166;112,883;58.44%
+Magic Wand;187,900;102,937;54.78%
+Aghanim's Scepter;123,643;82,983;67.12%
+Tranquil Boots;105,117;57,830;55.01%
+Observer and Sentry Wards;102,864;43,749;42.53%
+Dust of Appearance;93,699;49,167;52.47%
+Veil of Discord;92,406;53,018;57.38%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;38,13%;52,84%;2,57;347;472
+Off Lane;37,38%;54,00%;2,62;367;513
+Mid Lane;22,07%;52,56%;3,02;475;621

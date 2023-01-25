@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Phase Boots;182,650;92,994;50.91%
+Desolator;126,082;69,197;54.88%
+Black King Bar;118,446;65,253;55.09%
+Aghanim's Shard;117,863;69,117;58.64%
+Blink Dagger;114,571;60,389;52.71%
+Armlet of Mordiggian;108,785;54,330;49.94%
+Assault Cuirass;80,958;56,561;69.86%
+Quelling Blade;68,955;29,190;42.33%
+Radiance;60,760;37,536;61.78%
+Bracer;60,491;27,284;45.10%
+Magic Wand;60,137;27,331;45.45%
+Aghanim's Scepter;46,004;29,716;64.59%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;63,79%;53,68%;3,8;557;659
+Off Lane;21,93%;52,45%;2,86;476;605
+Jungle;11,60%;51,11%;3,28;500;583

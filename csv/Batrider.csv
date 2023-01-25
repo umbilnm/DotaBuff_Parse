@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Boots of Travel;55,286;25,895;46.84%
+Blink Dagger;53,520;24,817;46.37%
+Black King Bar;49,287;24,284;49.27%
+Bottle;39,812;17,853;44.84%
+Aghanim's Shard;27,767;16,016;57.68%
+Octarine Core;25,452;16,593;65.19%
+Magic Wand;22,400;9,079;40.53%
+Wind Lace;20,728;8,689;41.92%
+Witch Blade;15,785;8,777;55.60%
+Force Staff;15,579;6,468;41.52%
+Aether Lens;11,762;4,459;37.91%
+Dust of Appearance;9,280;3,523;37.96%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;45,92%;43,90%;2,49;369;499
+Mid Lane;38,71%;47,57%;3,37;481;677
+Safe Lane;10,13%;43,74%;2,2;336;473

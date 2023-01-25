@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;374,549;221,361;59.10%
+Bloodstone;340,069;205,395;60.40%
+Wraith Band;259,476;139,579;53.79%
+Eternal Shroud;225,408;142,502;63.22%
+Black King Bar;173,978;98,466;56.60%
+Boots of Travel;142,941;104,057;72.80%
+Magic Wand;137,537;71,067;51.67%
+Aghanim's Scepter;126,979;93,319;73.49%
+Boots of Speed;110,434;48,758;44.15%
+Power Treads;79,374;37,497;47.24%
+Shiva's Guard;52,566;39,057;74.30%
+Kaya and Sange;51,747;39,316;75.98%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;45,83%;52,03%;2,63;481;630
+Mid Lane;29,35%;49,52%;2,97;500;645
+Safe Lane;24,02%;46,24%;2,87;502;623

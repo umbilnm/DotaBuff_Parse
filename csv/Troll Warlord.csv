@@ -1,0 +1,20 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Black King Bar;105,788;58,603;55.40%
+Phase Boots;99,609;50,729;50.93%
+Battle Fury;73,982;40,446;54.67%
+Skull Basher;54,836;30,158;55.00%
+Morbid Mask;46,076;20,421;44.32%
+Wraith Band;45,740;21,306;46.58%
+Sange and Yasha;43,310;26,489;61.16%
+Satanic;37,124;24,878;67.01%
+Abyssal Blade;35,563;23,909;67.23%
+Silver Edge;33,553;20,453;60.96%
+Aghanim's Shard;31,850;21,092;66.22%
+Power Treads;28,594;15,043;52.61%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;73,64%;50,34%;2,74;539;655
+Off Lane;10,44%;48,19%;2,02;458;573
+Mid Lane;8,03%;50,17%;2,53;513;647
+Jungle;6,64%;48,11%;2,33;487;583

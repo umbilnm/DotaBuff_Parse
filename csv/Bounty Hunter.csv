@@ -1,0 +1,20 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Scepter;218,783;119,057;54.42%
+Phase Boots;156,202;75,342;48.23%
+Desolator;94,535;48,493;51.30%
+Magic Wand;92,439;43,923;47.52%
+Black King Bar;84,108;46,246;54.98%
+Octarine Core;70,765;47,261;66.79%
+Aether Lens;58,629;27,613;47.10%
+Aghanim's Shard;55,627;32,402;58.25%
+Tranquil Boots;46,725;21,828;46.72%
+Vanguard;42,767;20,459;47.84%
+Quelling Blade;41,642;17,080;41.02%
+Observer and Sentry Wards;40,638;14,550;35.80%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;56,11%;50,59%;2,64;451;520
+Safe Lane;16,49%;46,86%;2,55;442;507
+Mid Lane;15,52%;51,77%;2,98;471;489
+Roaming;8,07%;49,97%;2,79;393;448

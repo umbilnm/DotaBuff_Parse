@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Blade Mail;150,900;70,756;46.89%
+Vanguard;149,447;63,697;42.62%
+Eternal Shroud;145,166;75,152;51.77%
+Aghanim's Scepter;142,421;81,695;57.36%
+Phase Boots;136,304;66,004;48.42%
+Heart of Tarrasque;109,131;70,783;64.86%
+Crimson Guard;84,355;45,081;53.44%
+Power Treads;80,951;37,564;46.40%
+Magic Wand;77,900;34,728;44.58%
+Aghanim's Shard;66,473;38,695;58.21%
+Black King Bar;55,093;28,438;51.62%
+Quelling Blade;54,008;22,535;41.73%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;83,71%;49,64%;2,54;452;590
+Safe Lane;10,98%;48,18%;2,8;491;620

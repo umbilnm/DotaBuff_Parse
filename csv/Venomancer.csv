@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Force Staff;81,984;41,154;50.20%
+Aghanim's Shard;72,355;38,321;52.96%
+Aghanim's Scepter;72,173;41,705;57.78%
+Tranquil Boots;70,486;34,406;48.81%
+Magic Wand;69,717;35,149;50.42%
+Spirit Vessel;66,258;36,190;54.62%
+Blink Dagger;48,258;26,354;54.61%
+Observer and Sentry Wards;45,403;18,605;40.98%
+Arcane Boots;38,063;17,326;45.52%
+Veil of Discord;38,059;19,223;50.51%
+Dust of Appearance;29,485;14,006;47.50%
+Guardian Greaves;28,752;17,981;62.54%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;54,14%;51,95%;2,38;387;499
+Safe Lane;31,49%;51,19%;2,29;364;470
+Mid Lane;6,77%;49,70%;2,68;471;573

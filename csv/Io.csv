@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Mekansm;53,898;26,647;49.44%
+Holy Locket;41,778;24,149;57.80%
+Magic Wand;24,820;10,776;43.42%
+Observer and Sentry Wards;21,322;8,321;39.03%
+Dust of Appearance;20,542;9,879;48.09%
+Aghanim's Shard;19,472;11,747;60.33%
+Ring of Basilius;14,624;7,683;52.54%
+Guardian Greaves;14,620;9,156;62.63%
+Glimmer Cape;13,827;7,523;54.41%
+Philosopher's Stone;13,117;6,611;50.40%
+Ghost Scepter;12,810;6,593;51.47%
+Smoke of Deceit;12,460;6,466;51.89%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;60,47%;48,19%;2,44;266;444
+Off Lane;26,99%;48,77%;2,46;277;447
+Mid Lane;7,74%;45,84%;2,42;375;494

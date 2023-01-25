@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Battle Fury;392,710;206,289;52.53%
+Manta Style;382,674;214,751;56.12%
+Power Treads;364,196;185,113;50.83%
+Abyssal Blade;232,622;160,083;68.82%
+Eye of Skadi;178,372;123,532;69.26%
+Wraith Band;118,517;50,135;42.30%
+Butterfly;113,795;84,321;74.10%
+Black King Bar;93,696;49,379;52.70%
+Skull Basher;90,440;38,060;42.08%
+Aghanim's Shard;80,424;56,172;69.84%
+Aghanim's Scepter;62,107;43,275;69.68%
+Mind Breaker;58,481;32,482;55.54%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;90,00%;49,62%;3,18;623;716
+Off Lane;5,07%;44,51%;2,29;512;607

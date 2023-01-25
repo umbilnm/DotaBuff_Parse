@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Phase Boots;178,607;84,535;47.33%
+Black King Bar;171,073;86,118;50.34%
+Magic Wand;78,904;35,499;44.99%
+Aghanim's Scepter;78,656;46,948;59.69%
+Bracer;76,625;33,174;43.29%
+Kaya and Sange;69,774;39,844;57.10%
+Blink Dagger;66,790;35,241;52.76%
+Aghanim's Shard;64,577;35,460;54.91%
+Soul Ring;52,755;23,866;45.24%
+Quelling Blade;42,077;16,758;39.83%
+Dust of Appearance;31,590;12,880;40.77%
+Wind Lace;30,608;14,729;48.12%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;76,17%;48,18%;2,76;434;612
+Mid Lane;12,08%;50,38%;3,54;512;714
+Safe Lane;9,12%;46,62%;2,27;378;557

@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;59,164;34,349;58.06%
+Guardian Greaves;57,270;35,209;61.48%
+Pipe of Insight;41,478;25,592;61.70%
+Magic Wand;37,899;20,732;54.70%
+Rod of Atos;37,625;19,720;52.41%
+Quelling Blade;34,510;18,476;53.54%
+Arcane Boots;30,152;12,905;42.80%
+Soul Ring;25,311;13,120;51.84%
+Crimson Guard;24,921;15,016;60.25%
+Blade Mail;24,479;12,034;49.16%
+Vanguard;21,238;10,218;48.11%
+Lotus Orb;20,132;11,677;58.00%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;88,66%;54,47%;2,83;438;560
+Safe Lane;6,12%;49,12%;2,44;390;485

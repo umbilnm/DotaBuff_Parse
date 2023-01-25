@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;106,687;51,076;47.87%
+Manta Style;96,100;50,591;52.64%
+Eye of Skadi;92,229;54,941;59.57%
+Wraith Band;72,365;28,465;39.34%
+Aghanim's Shard;64,889;37,014;57.04%
+Aghanim's Scepter;51,736;29,726;57.46%
+Daedalus;45,281;28,695;63.37%
+Dragon Lance;43,530;19,104;43.89%
+Hurricane Pike;37,160;21,395;57.58%
+Butterfly;31,031;20,995;67.66%
+Magic Wand;24,944;10,444;41.87%
+Maelstrom;21,787;7,380;33.87%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;63,15%;49,88%;3,78;611;694
+Mid Lane;28,37%;51,20%;3,68;591;699
+Off Lane;6,63%;47,86%;2,67;492;579

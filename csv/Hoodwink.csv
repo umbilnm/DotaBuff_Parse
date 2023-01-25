@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Gleipnir;186,157;103,938;55.83%
+Aghanim's Shard;174,195;95,750;54.97%
+Aether Lens;173,587;86,581;49.88%
+Magic Wand;166,251;82,132;49.40%
+Arcane Boots;144,828;70,368;48.59%
+Tranquil Boots;96,214;47,372;49.24%
+Blight Stone;95,375;44,788;46.96%
+Boots of Speed;94,127;41,531;44.12%
+Dust of Appearance;89,991;41,629;46.26%
+Maelstrom;83,189;32,771;39.39%
+Wraith Band;76,339;35,482;46.48%
+Observer and Sentry Wards;75,825;26,939;35.53%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;61,68%;50,63%;3,2;380;567
+Safe Lane;27,00%;48,95%;2,95;366;554
+Mid Lane;8,87%;47,88%;3,9;539;711

@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;163,910;80,867;49.34%
+Echo Sabre;115,348;59,470;51.56%
+Armlet of Mordiggian;108,431;54,297;50.08%
+Aghanim's Shard;98,568;56,012;56.83%
+Black King Bar;85,064;43,374;50.99%
+Bracer;74,001;32,791;44.31%
+Heart of Tarrasque;56,889;38,084;66.94%
+Magic Wand;42,946;19,171;44.64%
+Quelling Blade;41,781;17,298;41.40%
+Manta Style;40,636;23,368;57.51%
+Blink Dagger;40,475;21,370;52.80%
+Assault Cuirass;36,749;24,827;67.56%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;49,03%;52,13%;3,05;517;625
+Off Lane;45,96%;51,61%;2,47;470;616

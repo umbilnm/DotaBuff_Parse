@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Black King Bar;525,877;282,983;53.81%
+Desolator;508,167;276,048;54.32%
+Power Treads;506,317;241,553;47.71%
+Battle Fury;503,255;251,759;50.03%
+Aghanim's Shard;336,508;197,438;58.67%
+Abyssal Blade;238,105;166,047;69.74%
+Skull Basher;204,582;106,013;51.82%
+Magic Wand;161,884;63,665;39.33%
+Orb of Corrosion;125,112;54,228;43.34%
+Wraith Band;124,888;47,969;38.41%
+Satanic;121,980;85,026;69.70%
+Phase Boots;89,890;42,373;47.14%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;81,77%;49,22%;3,01;552;679
+Mid Lane;9,87%;52,96%;3,09;516;641
+Off Lane;7,35%;46,73%;2,29;452;560

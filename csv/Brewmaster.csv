@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Magic Wand;13,138;6,535;49.74%
+Blink Dagger;12,496;6,417;51.35%
+Spirit Vessel;11,705;6,407;54.74%
+Aghanim's Shard;11,661;6,307;54.09%
+Aghanim's Scepter;11,123;5,877;52.84%
+Phase Boots;10,852;5,188;47.81%
+Quelling Blade;10,419;4,874;46.78%
+Tranquil Boots;6,871;3,388;49.31%
+Black King Bar;6,170;3,242;52.54%
+Bracer;6,000;2,745;45.75%
+Boots of Speed;5,873;2,535;43.16%
+Radiance;5,622;3,443;61.24%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;78,95%;51,29%;3,09;420;581
+Mid Lane;10,02%;50,23%;3,39;452;584
+Safe Lane;8,80%;46,65%;2,68;397;529

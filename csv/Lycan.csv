@@ -1,0 +1,20 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Helm of the Overlord;71,437;41,670;58.33%
+Quelling Blade;55,927;32,211;57.59%
+Aghanim's Shard;52,445;30,782;58.69%
+Assault Cuirass;46,690;30,832;66.04%
+Black King Bar;39,307;22,415;57.03%
+Boots of Speed;17,730;9,726;54.86%
+Drum of Endurance;17,139;10,721;62.55%
+Skull Basher;12,411;7,001;56.41%
+Aghanim's Scepter;11,676;7,287;62.41%
+Dust of Appearance;11,665;5,786;49.60%
+Iron Branch;11,406;6,306;55.29%
+Desolator;8,013;4,669;58.27%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;42,27%;52,75%;3,11;491;569
+Safe Lane;30,05%;51,59%;3,09;493;546
+Jungle;14,16%;48,29%;2,45;454;502
+Mid Lane;11,94%;58,11%;4,04;544;636

@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;212,726;104,680;49.21%
+Blink Dagger;183,924;99,180;53.92%
+Black King Bar;166,002;88,381;53.24%
+Meteor Hammer;151,566;74,739;49.31%
+Aghanim's Scepter;140,179;79,419;56.66%
+Aghanim's Shard;134,725;80,025;59.40%
+Scythe of Vyse;102,368;68,072;66.50%
+Witch Blade;90,774;47,633;52.47%
+Null Talisman;86,861;36,711;42.26%
+Hurricane Pike;85,721;49,909;58.22%
+Hand of Midas;51,886;24,440;47.10%
+Boots of Travel;48,942;31,721;64.81%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;79,67%;50,63%;3,08;511;650
+Off Lane;13,16%;49,31%;2,35;434;576
+Safe Lane;6,69%;47,20%;2,54;462;554

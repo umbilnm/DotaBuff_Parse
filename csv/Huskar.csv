@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Armlet of Mordiggian;243,655;124,647;51.16%
+Black King Bar;182,260;99,849;54.78%
+Bracer;137,007;60,519;44.17%
+Aghanim's Scepter;126,987;80,056;63.04%
+Heaven's Halberd;117,113;68,086;58.14%
+Aghanim's Shard;116,471;74,914;64.32%
+Boots of Speed;102,214;46,096;45.10%
+Power Treads;100,247;49,383;49.26%
+Gauntlets of Strength;65,339;29,416;45.02%
+Satanic;56,231;37,158;66.08%
+Morbid Mask;36,667;14,744;40.21%
+Boots of Travel;32,858;23,417;71.27%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;51,83%;54,47%;2,31;501;661
+Off Lane;27,16%;48,22%;1,69;431;554
+Safe Lane;17,48%;49,42%;2,03;466;555

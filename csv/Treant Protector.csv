@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;244,888;138,915;56.73%
+Arcane Boots;173,275;92,140;53.18%
+Blink Dagger;171,616;102,053;59.47%
+Meteor Hammer;126,779;69,747;55.01%
+Orb of Venom;101,579;54,789;53.94%
+Aghanim's Scepter;99,719;61,550;61.72%
+Magic Wand;95,245;52,030;54.63%
+Observer and Sentry Wards;72,930;31,308;42.93%
+Dust of Appearance;59,003;30,892;52.36%
+Smoke of Deceit;52,774;29,710;56.30%
+Sentry Ward;45,649;24,406;53.46%
+Boots of Speed;45,488;21,689;47.68%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;50,15%;52,20%;2,58;311;463
+Off Lane;43,85%;52,50%;2,64;331;485

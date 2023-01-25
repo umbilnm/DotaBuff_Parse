@@ -1,0 +1,20 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Blink Dagger;320,508;158,643;49.50%
+Aghanim's Shard;279,285;150,681;53.95%
+Arcane Boots;177,874;83,947;47.19%
+Aghanim's Scepter;167,017;91,861;55.00%
+Magic Wand;112,486;54,993;48.89%
+Black King Bar;98,300;54,720;55.67%
+Force Staff;91,625;50,325;54.92%
+Bracer;91,512;42,319;46.24%
+Dust of Appearance;72,979;33,783;46.29%
+Phase Boots;71,432;34,291;48.01%
+Boots of Speed;59,385;27,482;46.28%
+Daedalus;56,955;34,536;60.64%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;61,54%;50,34%;2,44;380;539
+Safe Lane;22,38%;49,25%;2,31;340;462
+Mid Lane;8,33%;51,02%;2,9;435;579
+Roaming;5,14%;49,00%;2,46;332;471

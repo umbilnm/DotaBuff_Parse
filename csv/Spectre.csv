@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Power Treads;294,718;161,257;54.72%
+Manta Style;272,322;164,500;60.41%
+Aghanim's Scepter;246,924;153,195;62.04%
+Blade Mail;222,200;118,732;53.43%
+Eye of Skadi;130,786;92,792;70.95%
+Abyssal Blade;113,100;82,366;72.83%
+Aghanim's Shard;98,001;68,976;70.38%
+Wraith Band;92,103;40,825;44.33%
+Magic Wand;86,651;37,819;43.65%
+Quelling Blade;72,770;28,549;39.23%
+Skull Basher;70,398;40,129;57.00%
+Radiance;66,520;41,849;62.91%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;90,91%;52,94%;4,35;535;661
+Off Lane;6,37%;52,35%;3,31;464;598

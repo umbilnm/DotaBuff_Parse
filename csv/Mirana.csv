@@ -1,0 +1,21 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Magic Wand;198,069;105,453;53.24%
+Wraith Band;167,178;84,306;50.43%
+Arcane Boots;163,402;81,971;50.17%
+Gleipnir;120,874;74,015;61.23%
+Aghanim's Scepter;110,190;69,752;63.30%
+Aghanim's Shard;107,069;67,288;62.85%
+Power Treads;98,203;48,956;49.85%
+Eul's Scepter of Divinity;97,328;53,957;55.44%
+Observer and Sentry Wards;83,999;33,719;40.14%
+Dust of Appearance;81,247;40,549;49.91%
+Spirit Vessel;80,187;46,664;58.19%
+Force Staff;78,394;42,619;54.37%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;53,36%;52,27%;3,4;375;516
+Safe Lane;19,76%;49,80%;3,18;374;495
+Mid Lane;15,30%;50,84%;3,54;458;536
+Roaming;6,52%;49,20%;3,22;364;469
+Jungle;5,07%;50,86%;3,26;387;460

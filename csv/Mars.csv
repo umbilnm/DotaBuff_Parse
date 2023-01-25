@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Blink Dagger;209,260;94,494;45.16%
+Phase Boots;195,460;92,255;47.20%
+Black King Bar;177,480;93,957;52.94%
+Aghanim's Shard;172,975;91,167;52.71%
+Soul Ring;110,975;50,417;45.43%
+Bracer;90,572;38,612;42.63%
+Magic Wand;84,888;36,960;43.54%
+Desolator;63,138;34,458;54.58%
+Quelling Blade;56,445;21,759;38.55%
+Refresher Orb;38,097;24,701;64.84%
+Overwhelming Blink;31,294;21,678;69.27%
+Assault Cuirass;30,098;20,130;66.88%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;90,02%;47,57%;2,8;436;595
+Mid Lane;6,14%;48,55%;3,54;513;683

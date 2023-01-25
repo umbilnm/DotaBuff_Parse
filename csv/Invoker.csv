@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;404,507;209,038;51.68%
+Boots of Travel;386,051;198,345;51.38%
+Hand of Midas;334,323;152,925;45.74%
+Null Talisman;296,070;122,158;41.26%
+Black King Bar;281,243;144,081;51.23%
+Blink Dagger;211,669;115,792;54.70%
+Scythe of Vyse;202,633;122,407;60.41%
+Aghanim's Scepter;194,304;109,604;56.41%
+Magic Wand;123,373;53,556;43.41%
+Refresher Orb;92,916;59,427;63.96%
+Boots of Speed;75,338;22,662;30.08%
+Linken's Sphere;63,662;38,521;60.51%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;79,64%;48,02%;3,39;524;640
+Off Lane;13,46%;48,33%;2,71;376;525
+Safe Lane;5,64%;45,88%;2,55;376;520

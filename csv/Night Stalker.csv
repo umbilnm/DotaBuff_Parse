@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Phase Boots;136,564;69,347;50.78%
+Black King Bar;109,918;61,897;56.31%
+Aghanim's Shard;98,565;56,187;57.01%
+Bracer;72,914;33,122;45.43%
+Blink Dagger;71,655;39,693;55.39%
+Echo Sabre;60,560;32,385;53.48%
+Skull Basher;46,069;26,603;57.75%
+Magic Wand;43,940;19,972;45.45%
+Quelling Blade;38,794;15,988;41.21%
+Abyssal Blade;27,561;19,314;70.08%
+Assault Cuirass;27,004;19,812;73.37%
+Dust of Appearance;24,859;10,588;42.59%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;80,11%;52,29%;3,12;438;599
+Safe Lane;8,09%;47,65%;2,83;399;513
+Mid Lane;7,21%;51,55%;3,3;435;557

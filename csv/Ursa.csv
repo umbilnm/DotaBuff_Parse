@@ -1,0 +1,20 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Phase Boots;292,150;146,556;50.16%
+Blink Dagger;259,949;127,722;49.13%
+Aghanim's Shard;256,571;152,674;59.51%
+Black King Bar;250,640;134,521;53.67%
+Battle Fury;188,951;100,516;53.20%
+Morbid Mask;160,155;70,353;43.93%
+Abyssal Blade;155,008;105,880;68.31%
+Skull Basher;148,140;68,185;46.03%
+Diffusal Blade;87,398;43,080;49.29%
+Satanic;79,712;56,269;70.59%
+Magic Wand;61,531;25,601;41.61%
+Aghanim's Scepter;59,137;38,939;65.85%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;75,74%;51,79%;3,23;537;683
+Off Lane;11,56%;51,44%;2,44;461;593
+Jungle;6,77%;50,71%;2,61;460;563
+Mid Lane;5,09%;55,53%;3,28;520;672

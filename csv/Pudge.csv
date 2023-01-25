@@ -1,0 +1,20 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Blink Dagger;659,814;353,258;53.54%
+Aghanim's Scepter;475,543;289,361;60.85%
+Tranquil Boots;434,362;208,153;47.92%
+Phase Boots;348,040;182,827;52.53%
+Aghanim's Shard;333,406;194,957;58.47%
+Vanguard;244,161;122,687;50.25%
+Bracer;239,872;113,432;47.29%
+Black King Bar;228,400;134,214;58.76%
+Magic Wand;221,511;106,430;48.05%
+Eternal Shroud;219,086;134,471;61.38%
+Blade Mail;175,513;84,556;48.18%
+Aether Lens;170,455;90,434;53.05%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;46,94%;51,28%;2,23;368;524
+Safe Lane;24,67%;49,70%;2,18;352;502
+Mid Lane;18,35%;51,64%;2,67;420;559
+Roaming;8,21%;49,35%;2,14;335;477

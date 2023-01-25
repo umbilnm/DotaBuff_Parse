@@ -1,0 +1,20 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Blink Dagger;292,871;155,284;53.02%
+Phase Boots;265,900;130,836;49.20%
+Desolator;246,740;128,500;52.08%
+Magic Wand;167,905;80,807;48.13%
+Black King Bar;162,445;90,670;55.82%
+Aghanim's Scepter;115,891;68,051;58.72%
+Aghanim's Shard;99,558;56,870;57.12%
+Falcon Blade;95,894;47,434;49.47%
+Dust of Appearance;92,319;40,570;43.95%
+Bottle;83,882;42,461;50.62%
+Quelling Blade;66,792;28,156;42.15%
+Bracer;66,558;30,067;45.17%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;59,18%;46,82%;2,38;358;525
+Safe Lane;17,30%;45,13%;2,24;335;481
+Mid Lane;13,64%;48,70%;2,99;441;619
+Roaming;8,07%;46,46%;2,38;322;463

@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;11,631;6,466;55.59%
+Guardian Greaves;9,390;5,513;58.71%
+Mekansm;7,773;3,339;42.96%
+Ring of Basilius;5,758;2,525;43.85%
+Observer and Sentry Wards;5,096;1,998;39.21%
+Boots of Speed;4,762;1,735;36.43%
+Vladmir's Offering;3,653;1,940;53.11%
+Smoke of Deceit;3,644;1,924;52.80%
+Dust of Appearance;3,454;1,652;47.83%
+Wraith Pact;3,439;2,209;64.23%
+Magic Wand;2,970;1,357;45.69%
+Sentry Ward;2,849;1,404;49.28%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;43,46%;50,46%;2,58;301;421
+Jungle;25,38%;46,93%;2,43;327;361
+Off Lane;24,06%;51,10%;2,6;313;427

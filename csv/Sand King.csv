@@ -1,0 +1,20 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Blink Dagger;151,737;73,299;48.31%
+Aghanim's Shard;127,425;71,969;56.48%
+Aghanim's Scepter;85,894;50,459;58.75%
+Arcane Boots;75,644;34,886;46.12%
+Eul's Scepter of Divinity;68,903;35,461;51.47%
+Magic Wand;62,287;29,666;47.63%
+Bracer;53,505;25,638;47.92%
+Boots of Travel;48,114;29,856;62.05%
+Quelling Blade;38,983;17,434;44.72%
+Lotus Orb;36,026;20,455;56.78%
+Boots of Speed;32,927;13,242;40.22%
+Black King Bar;31,366;16,866;53.77%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;74,99%;51,31%;2,67;440;585
+Safe Lane;10,20%;47,58%;2,32;369;478
+Jungle;6,57%;46,70%;2,64;378;453
+Mid Lane;5,78%;52,48%;3,25;504;657

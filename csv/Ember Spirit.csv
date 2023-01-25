@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Bottle;199,800;93,233;46.66%
+Black King Bar;189,108;92,193;48.75%
+Phase Boots;181,856;84,589;46.51%
+Maelstrom;167,366;67,587;40.38%
+Aghanim's Scepter;156,487;91,183;58.27%
+Aghanim's Shard;145,671;86,002;59.04%
+Orb of Corrosion;131,646;61,386;46.63%
+Boots of Travel;98,271;50,859;51.75%
+Daedalus;93,862;50,707;54.02%
+Gleipnir;88,086;53,395;60.62%
+Magic Wand;82,405;35,414;42.98%
+Desolator;63,989;32,600;50.95%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;76,22%;47,77%;3,73;529;679
+Safe Lane;17,28%;42,23%;3,3;526;615
+Off Lane;5,56%;43,26%;2,57;443;563

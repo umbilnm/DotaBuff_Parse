@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aether Lens;299,870;149,715;49.93%
+Hand of Midas;265,763;129,586;48.76%
+Arcane Boots;238,559;111,583;46.77%
+Magic Wand;170,704;84,086;49.26%
+Aghanim's Shard;159,211;89,698;56.34%
+Force Staff;155,419;79,206;50.96%
+Boots of Speed;122,010;51,451;42.17%
+Observer and Sentry Wards;120,556;43,847;36.37%
+Aghanim's Scepter;109,921;64,537;58.71%
+Octarine Core;96,696;61,139;63.23%
+Dust of Appearance;95,842;45,085;47.04%
+Tranquil Boots;92,355;46,372;50.21%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;58,34%;52,15%;2,35;328;486
+Off Lane;32,62%;51,99%;2,46;359;521
+Mid Lane;5,40%;49,96%;2,78;440;574

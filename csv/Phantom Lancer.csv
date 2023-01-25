@@ -1,0 +1,18 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Diffusal Blade;152,297;76,666;50.34%
+Power Treads;144,327;71,705;49.68%
+Heart of Tarrasque;110,380;67,623;61.26%
+Manta Style;108,088;59,558;55.10%
+Aghanim's Shard;77,310;44,891;58.07%
+Wraith Band;67,225;30,212;44.94%
+Magic Wand;48,482;22,171;45.73%
+Eye of Skadi;43,167;28,115;65.13%
+Quelling Blade;42,879;17,651;41.16%
+Skull Basher;27,941;15,067;53.92%
+Abyssal Blade;27,542;17,774;64.53%
+Butterfly;18,821;13,008;69.11%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Safe Lane;86,89%;50,38%;3,06;546;660
+Off Lane;7,79%;46,35%;2,2;445;547

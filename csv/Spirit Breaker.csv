@@ -1,0 +1,20 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Phase Boots;254,796;126,094;49.49%
+Bracer;127,495;58,199;45.65%
+Aghanim's Scepter;114,969;70,326;61.17%
+Silver Edge;109,309;63,920;58.48%
+Shadow Blade;108,016;47,950;44.39%
+Blade Mail;103,137;50,913;49.36%
+Magic Wand;97,291;45,856;47.13%
+Black King Bar;95,132;53,840;56.60%
+Dust of Appearance;80,994;36,940;45.61%
+Power Treads;58,272;27,699;47.53%
+Spirit Vessel;52,732;29,574;56.08%
+Wind Lace;49,405;22,820;46.19%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;62,69%;51,87%;2,9;382;542
+Roaming;16,00%;51,15%;2,77;342;490
+Safe Lane;13,21%;50,13%;2,73;352;488
+Mid Lane;5,74%;53,01%;3,12;401;526

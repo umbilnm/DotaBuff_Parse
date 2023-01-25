@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Null Talisman;389,445;192,667;49.47%
+Rod of Atos;347,755;180,177;51.81%
+Arcane Boots;191,158;94,455;49.41%
+Aghanim's Scepter;136,319;85,344;62.61%
+Aether Lens;124,188;68,818;55.41%
+Aghanim's Shard;119,572;71,062;59.43%
+Boots of Speed;111,019;49,032;44.17%
+Boots of Travel;71,945;47,682;66.28%
+Observer and Sentry Wards;70,173;26,564;37.86%
+Ethereal Blade;69,129;41,515;60.05%
+Magic Wand;64,824;31,526;48.63%
+Dust of Appearance;63,810;30,589;47.94%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;42,45%;52,10%;2,5;341;524
+Safe Lane;30,64%;49,35%;2,3;324;476
+Mid Lane;22,56%;51,86%;3,19;451;641

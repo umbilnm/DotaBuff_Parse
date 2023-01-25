@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Phase Boots;154,292;71,436;46.30%
+Bracer;119,169;51,382;43.12%
+Black King Bar;107,977;55,422;51.33%
+Silver Edge;100,556;51,365;51.08%
+Aghanim's Shard;82,701;43,122;52.14%
+Daedalus;77,688;42,664;54.92%
+Aghanim's Scepter;76,986;42,861;55.67%
+Magic Wand;44,347;19,885;44.84%
+Quelling Blade;42,211;16,682;39.52%
+Assault Cuirass;40,729;26,492;65.04%
+Bottle;40,450;18,740;46.33%
+Heaven's Halberd;25,103;12,826;51.09%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Mid Lane;43,80%;49,03%;3,41;534;657
+Off Lane;36,97%;47,98%;2,69;457;581
+Safe Lane;15,36%;46,02%;2,81;413;510

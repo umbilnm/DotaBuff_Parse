@@ -1,0 +1,19 @@
+MostUsedItems
+Item;Matches;Wins;Win Rate
+Aghanim's Shard;352,119;183,581;52.14%
+Ethereal Blade;247,773;136,799;55.21%
+Aether Lens;165,926;81,506;49.12%
+Null Talisman;138,259;70,551;51.03%
+Arcane Boots;132,887;62,634;47.13%
+Tranquil Boots;127,712;65,393;51.20%
+Octarine Core;122,757;76,173;62.05%
+Observer and Sentry Wards;72,151;29,492;40.88%
+Magic Wand;71,682;36,601;51.06%
+Dust of Appearance;68,526;32,487;47.41%
+Boots of Speed;65,832;29,254;44.44%
+Scythe of Vyse;65,760;39,290;59.75%
+
+Lane;Presence;Win Rate;KDA Ratio;GPM;XPM
+Off Lane;59,36%;49,31%;2,03;403;522
+Safe Lane;24,46%;47,62%;1,91;388;517
+Mid Lane;9,25%;44,96%;2,42;485;631
